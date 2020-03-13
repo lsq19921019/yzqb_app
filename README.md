@@ -1,6 +1,7 @@
 ## Build Setup
 
 ``` bash
+# git测试
 # 安装依赖包
 npm install
 
