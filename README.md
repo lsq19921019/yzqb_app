@@ -1,7 +1,7 @@
 ## Build Setup
 
 ``` bash
-# git测试
+# git测试11
 # 安装依赖包
 npm install
 
@@ -16,3 +16,4 @@ git add dist -f
 git commit -m '描述'
 git push origin master
 ```
+git push origin git_test
